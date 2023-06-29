@@ -1,3 +1,5 @@
+#用于驱动st7789 240*240IPS 的OLED显示屏
+
 import time
 from micropython import const
 import ustruct as struct
