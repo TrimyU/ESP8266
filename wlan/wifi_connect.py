@@ -35,7 +35,7 @@ def wifi_connect(name, password):
             print("Trying to connect to wifi....")
             print(time.time())
 
-            if time.time() - start_time > 17:
+            if time.time() - start_time > 16:
                 print("Unable to connect to the network.")
                 break
 
