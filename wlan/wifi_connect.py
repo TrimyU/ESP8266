@@ -1,4 +1,4 @@
-#你需要在程序根目录创建一个"wifi.json"文件.
+#你需要在程序根目录创建一个"wifi.json"文件˃ʍ˂.
 from machine import Pin
 import network
 import time
